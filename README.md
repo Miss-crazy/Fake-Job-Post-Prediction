@@ -4,7 +4,7 @@
 
 This project focuses on detecting fake job postings using machine learning techniques. It involves data preprocessing, feature engineering, model selection, hyperparameter tuning, and evaluation to ensure high accuracy and reliability. By analyzing job descriptions and related features, the model aims to distinguish between real and fraudulent job listings.
 
-h3>Dataset</h3>
+<h3>Dataset</h3>
 
 - Contains job postings labeled as real or fake.
 - Includes diverse textual and numerical features such as job title, company profile, job description, requirements, and benefits.
